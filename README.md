@@ -13,7 +13,8 @@
 <!-- 贪吃蛇 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/xuliji/xuliji/contribution-snake/github-contribution-grid-snake.svg" /></div>
 
-
-<div align="left"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=xuliji&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+#  🙋 Hello
+<p>✍️&nbsp;&nbsp;大家好，我是小许! 目前就读于上海大学计算机科学与技术</p>
+<p>&emsp;&emsp;Fear can hold you prisoner. Hope can set you free. A strong man can save himself. A great man can save another.</p>
 
 
