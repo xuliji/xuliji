@@ -27,7 +27,19 @@ jobs:
           base: "header, activity, community, repositories"
           plugin_traffic: yes
           plugin_lines: yes
-      
+          
+          
+      - name: terminal
+        uses: lowlighter/metrics@latest
+        with:
+          template: terminal
+          filename: terminal.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, metadata
+        
+        
+        
+        
       # plugin metrics
       - name: plugin_metrics
         uses: lowlighter/metrics@latest
