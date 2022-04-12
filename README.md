@@ -12,7 +12,7 @@
   <a href="https://weibo.com/u/5514348505"><img src="https://img.shields.io/badge/weibo-%E5%BE%AE%E5%8D%9A-yellowgreen"></a>&emsp;
 </div>
 <!-- 贪吃蛇 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/xuliji/xuliji/contribution-snake/github-contribution-grid-snake.svg" /></div>
+<div align="center"><img src="https://github.com/xuliji/xuliji/blob/main/contribution-snake/github-contribution-grid-snake.svg" /></div>
 
 #  🙋 Hello
 <p>✍️&nbsp;&nbsp;大家好，我是小许! 目前就读于上海大学计算机科学与技术</p>
