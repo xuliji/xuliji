@@ -51,7 +51,6 @@
 <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=xuliji&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
 <br>
 
-![Metrics](https://metrics.lecoq.io/xuliji?template=classic&config.timezone=Asia%2FShanghai)
 
 <!-- GitHub Activity Graph -->
 [![xuliji's github activity graph](https://activity-graph.herokuapp.com/graph?username=xuliji&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -64,7 +63,7 @@
 
 <!-- plugin metrics -->
 <div align="center">
-  <img src="https://github.com/xuliji/xuliji/blob/main/base_metrics.svg" width="150%"/>
+  <img src="https://github.com/xuliji/xuliji/blob/main/base_metrics.svg" width="75%"/>
   <img src="https://github.com/xuliji/xuliji/blob/main/plugin_metrics.svg" width="75%"/>
 </div>
 
