@@ -17,6 +17,9 @@
 #  🙋 Hello
 <p>✍️&nbsp;&nbsp;大家好，我是小许! 目前就读于上海大学计算机科学与技术</p>
 <p>&emsp;&emsp;Fear can hold you prisoner. Hope can set you free. A strong man can save himself. A great man can save another.</p>
+<div align="center">
+  <img src="https://github.com/xuliji/xuliji/blob/main/terminal.svg"/>
+</div>
 
 🧰 常用的工具:
 
@@ -61,9 +64,8 @@
 
 <!-- plugin metrics -->
 <div align="center">
-  <img src="https://github.com/xuliji/xuliji/blob/main/base_metrics.svg"/>
+  <img src="https://github.com/xuliji/xuliji/blob/main/base_metrics.svg" width="150%"/>
   <img src="https://github.com/xuliji/xuliji/blob/main/plugin_metrics.svg" width="75%"/>
-  <img src="https://github.com/xuliji/xuliji/blob/main/terminal.svg" />
 </div>
 
 
