@@ -113,9 +113,6 @@ jobs:
           plugin_people_sponsors_custom: octocat                    # Users that will be displayed additionally in "sponsors" section
           plugin_people_shuffle: yes                                # Shuffle for varied output
           
-          # 🗂️ Active projects 我的工程
-          plugin_projects: yes
-          plugin_projects_limit: 5
          
          # 🌟 Recently starred repositories
           plugin_stars: yes
@@ -130,8 +127,8 @@ jobs:
           plugin_reactions_ignored: bot                             # Ignore "bot" user
           
           # 🌇 GitHub Skyline 3D calendar 3D贡献图
-#           plugin_skyline: yes
-#           plugin_skyline_year: 2022                                    # Set to 0 to display current year (统计年份)
-#           plugin_skyline_frames: 30                                 # Use 60 frames (half-loop) (半循环or全循环)
-#           plugin_skyline_quality: 0.5                               # Set image quality (图片质量) 
-#           plugin_skyline_compatibility: no                          # Support additional browsers (⚠️ increases file size and reduce optimization)   
+          plugin_skyline: yes
+          plugin_skyline_year: 2022                                    # Set to 0 to display current year (统计年份)
+          plugin_skyline_frames: 30                                 # Use 60 frames (half-loop) (半循环or全循环)
+          plugin_skyline_quality: 1                               # Set image quality (图片质量) 
+          plugin_skyline_compatibility: no                          # Support additional browsers (⚠️ increases file size and reduce optimization)   
