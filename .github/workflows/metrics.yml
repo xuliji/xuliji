@@ -72,10 +72,6 @@ jobs:
           plugin_introduction: yes
           plugin_introduction_title: yes
           
-          # 📅 Isometric commit calendar 日历图
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year                            # Display full year instead of half year
-          
           # ✨ Stargazers over last weeks
           plugin_stargazers: yes
           
