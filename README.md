@@ -64,6 +64,7 @@
 <!-- plugin metrics -->
 <div align="center">
   <img src="https://github.com/xuliji/xuliji/blob/main/base_metrics.svg" width="75%"/>
+  <img src="https://github.com/xuliji/xuliji/blob/main/icons.svg" width="75%"/>
   <img src="https://github.com/xuliji/xuliji/blob/main/plugin_metrics.svg" width="75%"/>
 </div>
 
