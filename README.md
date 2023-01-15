@@ -53,7 +53,7 @@
 
 
 <!-- GitHub Activity Graph -->
-[![xuliji's github activity graph](https://activity-graph.herokuapp.com/graph?username=xuliji&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=xuliji)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
